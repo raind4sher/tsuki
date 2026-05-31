@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/raind4sher/tsuki/refs/heads/main/TSUKI.png" width="256"></p>
 
-<p align="center"># Tsuki 月【つき】(n) moon</p>
+# <p align="center">Tsuki 月【つき】(n) moon</p>
 <p align="center">## ( ｡･ω･｡)つ━☆*🌙</p>
 <p align="center"># Minimalist Music Player for Android</p>
 
