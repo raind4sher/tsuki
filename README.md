@@ -4,12 +4,6 @@
 **<p align="center">( ｡･ω･｡)つ━☆*🌙</p>**
 **<p align="center">Minimalist Music Player for Android</p>**
 
-If you like my project, please consider buying me a coffee!! (⁎˃ ꇴ ˂⁎)ｯ  
-
-[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/raind4sher)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/raind4sher)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raind4sher)
-
 
 Also please don't forget to hit that star button! 🌟
 Feel free to open an issue for problems or suggestions 🤗
