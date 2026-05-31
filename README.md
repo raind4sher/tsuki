@@ -36,18 +36,20 @@ Python 3.x
 
 Kivy & Buildozer
 
-Clone the repo
+# Clone the repo
 
-Bash
-git clone https://github.com/YOUR_USERNAME/Tsuki.git
-cd Tsuki
-Build the APK
+```
+git clone https://github.com/raind4sher/tsuki.git
+cd tsuki
+```
+# Build the APK
 
-Bash
+```
 buildozer android debug deploy run
 (Check the Buildozer documentation for environment setup).
+```
 
-Troubleshooting 🔧
+### Troubleshooting 🔧
 The music stops when the screen turns off?
 Make sure the Foreground Service permissions are correctly set in the buildozer.spec file.
 
