@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/jeffshee/gnome-ext-hanabi/master/res/sparkler.svg" width="256"></p>
+
 <p align="center">Tsuki 月【つき】(n) moon</p>
 <p align="center">( ｡･ω･｡)つ━☆*🌙</p>
 <p align="center">Minimalist Music Player for Android</p>
